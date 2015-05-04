@@ -7,4 +7,6 @@
     <string name="erro_autenticacao">Usuário ou senha inválidos!</string>
     <string name="title_activity_activity_panel">ActivityPanel</string>
     <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_activity_find">FindActivity</string>
+    <string name="title_activity_map">MapActivity</string>
 </resources>

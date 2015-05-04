@@ -28,6 +28,19 @@
             android:name=".MenuActivity"
             android:label="@string/title_activity_menu" >
         </activity>
+        <activity
+            android:name=".FindActivity"
+            android:label="@string/title_activity_find" >
+        </activity>
+
+        <uses-library android:name="com.google.android.maps" />
+
+        <uses-permission android:name="android.permission.INTERNET" />
+
+        <activity
+            android:name=".MapActivity"
+            android:label="@string/title_activity_map" >
+        </activity>
     </application>
 
 </manifest>
